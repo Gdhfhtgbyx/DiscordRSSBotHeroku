@@ -6,11 +6,11 @@
     "showUnfiltered": true
   },
   "botSettings": {
-    "token": "NDAzNjA5MjE4NDAzMjcwNjY5.DUgOUA.2PA6DkGTBKgBdCnoKQuwcYJovEk",
+    "token": "NjI1OTk5NTAwMTg3NjY0Mzg2.XZ4pfg.F62_-lq_hw06C8-ktqUvKDi_o94",
     "enableCommands": true,
     "prefix": "!",
-    "defaultGame": "BitchIAintPlayin",
-    "controllerIds": ["336850145306083328"],
+    "defaultGame": " The Flamingo Community",
+    "controllerIds": ["479025148931080193"],
     "menuColor": 7833753,
     "deleteMenus": false
   },

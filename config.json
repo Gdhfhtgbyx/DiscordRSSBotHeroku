@@ -1,15 +1,15 @@
 {
   "logging": {
     "logDates": true,
-    "discordChannelLog": "403631322641203200",
+    "discordChannelLog": "631485248907247626",
     "showLinkErrs": true,
     "showUnfiltered": true
   },
   "botSettings": {
-    "token": "NDAzNjA5MjE4NDAzMjcwNjY5.DUgOUA.2PA6DkGTBKgBdCnoKQuwcYJovEk",
+    "token": "NjI1OTk5NTAwMTg3NjY0Mzg2.XZ4pfg.F62_-lq_hw06C8-ktqUvKDi_o94",
     "enableCommands": true,
-    "prefix": "!",
-    "defaultGame": "BitchIAintPlayin",
+    "prefix": "$",
+    "defaultGame": "The Flamingo Community",
     "controllerIds": ["336850145306083328"],
     "menuColor": 7833753,
     "deleteMenus": false
